@@ -1,0 +1,16 @@
+E:\VS_Studio\source\repos\ACM\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\VS_Studio\source\repos\ACM\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\VS_Studio\source\repos\ACM\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\VS_Studio\source\repos\ACM\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+E:\VS_Studio\source\repos\ACM\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+E:\VS_Studio\source\repos\ACM\UnitTestProject1\bin\Debug\ACM.BL.dll
+E:\VS_Studio\source\repos\ACM\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\VS_Studio\source\repos\ACM\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\VS_Studio\source\repos\ACM\UnitTestProject1\bin\Debug\ACM.BL.pdb
+E:\VS_Studio\source\repos\ACM\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\VS_Studio\source\repos\ACM\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\VS_Studio\source\repos\ACM\UnitTestProject1\obj\Debug\ACM.BLTest.csprojAssemblyReference.cache
+E:\VS_Studio\source\repos\ACM\UnitTestProject1\obj\Debug\ACM.BLTest.csproj.CoreCompileInputs.cache
+E:\VS_Studio\source\repos\ACM\UnitTestProject1\obj\Debug\ACM.BLTest.csproj.CopyComplete
+E:\VS_Studio\source\repos\ACM\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+E:\VS_Studio\source\repos\ACM\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

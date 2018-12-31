@@ -1,0 +1,6 @@
+E:\VS_Studio\source\repos\ACM\ACM.BL\bin\Debug\ACM.BL.dll
+E:\VS_Studio\source\repos\ACM\ACM.BL\bin\Debug\ACM.BL.pdb
+E:\VS_Studio\source\repos\ACM\ACM.BL\obj\Debug\ACM.BL.csprojAssemblyReference.cache
+E:\VS_Studio\source\repos\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
+E:\VS_Studio\source\repos\ACM\ACM.BL\obj\Debug\ACM.BL.dll
+E:\VS_Studio\source\repos\ACM\ACM.BL\obj\Debug\ACM.BL.pdb
