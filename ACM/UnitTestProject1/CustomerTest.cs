@@ -91,10 +91,19 @@ namespace ACM.BLTest
             Assert.AreEqual(expected, actual);
         }
 
-        [TestMethod]
-        public void ValidateInvalid()
+       [TestMethod]
+       public void ValidateMissingLastName()
         {
+            // Arrange
+            Customer customer = new Customer();
+            customer.EmailId = "bagens@minion.it";
+            var expected = false;
 
+            //Act
+            var actual = customer.Validate();
+
+            //Assert
+            Assert.AreEqual(expected, actual);
         }
     }
 }

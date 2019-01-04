@@ -8,6 +8,18 @@ namespace ACM.BL
 {
     public class Customer
     {
+
+        /// <summary>
+        /// Constructor
+        /// </summary>
+        /// 
+        public Customer() { }
+
+        public Customer(int customerId)
+        {
+            this.CustomerId = customerId;
+        }
+
         public static int InstanceCount;
         private string _lastName;
         public string LastName
@@ -43,7 +55,11 @@ namespace ACM.BL
                 return fullname;
             }
         }
-
+         
+        /// <summary>
+        ///  Validate
+        /// </summary>
+        /// <returns></returns>
         public bool Validate()
         {
             var isValid = true;
@@ -51,5 +67,26 @@ namespace ACM.BL
             if (string.IsNullOrEmpty(EmailId)) isValid = false;
             return isValid;
         }
+
+        /// <summary>
+        /// Retrieve 
+        /// </summary>
+        public Customer Retrieve(int customerId)
+        {
+            return new Customer();
+        }
+
+        /// Retrieve a list of customers
+        public List<Customer> Retrieve()
+        {
+            return new List<Customer>();
+        }
+
+        ///Save
+        public bool Save()
+        {
+            return true;
+        }
+        
     }
 }
